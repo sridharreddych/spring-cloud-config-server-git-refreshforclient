@@ -21,3 +21,4 @@ localhost:8888/s1rates/perf
 localhost:8888/s1rates/default
 localhost:8888/perf
 localhost:8888/s1rates/default?username=user&password=user <with security enabled our sell with user and password>
+"# EncryptAndDecryptConfigurationExample" 
