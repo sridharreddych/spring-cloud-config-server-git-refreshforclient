@@ -22,3 +22,15 @@ localhost:8888/s1rates/default
 localhost:8888/perf
 localhost:8888/s1rates/default?username=user&password=user <with security enabled our sell with user and password>
 "# EncryptAndDecryptConfigurationExample" 
+
+============
+
+For config server refresh by client:
+
+echo "# spring-cloud-config-server-git-refreshforclient" >> README.md
+
+
+localhost:8888/s1rates/default <see if changed values in git are refelecting here>
+
+
+
